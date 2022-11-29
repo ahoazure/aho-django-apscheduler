@@ -1,0 +1,9 @@
+**.pyc
+db
+.cache
+.idea
+django_apscheduler.egg-info
+.tox
+.coverage
+dist
+*.sqlite3
